@@ -1,0 +1,11 @@
+.terraform
+*.tfstate*
+terraform.tfstate
+terraform.tfstate.*
+.terraform.lock.*
+backend.tf
+id_rsa.pub
+/temp
+
+
+
